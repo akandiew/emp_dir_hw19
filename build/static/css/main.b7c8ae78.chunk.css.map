@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,MACE,WACF,CAEA,YACE,aAAc,CACd,cAAe,CACf,iBAAkB,CAClB,UACF","file":"main.b7c8ae78.chunk.css","sourcesContent":[".form {\n  margin: 20px;\n}\n\n.form input {\n  display: block;\n  margin-top: 5px;\n  margin-bottom: 5px;\n  width: 100%;\n}\n"]}
